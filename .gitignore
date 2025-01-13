@@ -1,0 +1,28 @@
+_build
+_tracks
+
+opa-debug-js
+
+*.opp
+*.opx
+*.opx.broken
+*.dump
+*.api
+*.api-txt
+*.exe
+*.log
+
+# VS Code files for those working on multiple tools
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# JetBrains
+.idea
+
+#envrc
+.envrc
