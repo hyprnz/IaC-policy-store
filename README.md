@@ -1,4 +1,4 @@
-# opa-store
+# iac-policy-opa-store
 
 This repo serves as a centralised OPA policy bundle store. Policies can be developed and tested in this repo and then be pulled into the specific service and tested. Policy tests can use either [opa](https://www.openpolicyagent.org/docs/latest/#overview) or [Conftest](https://www.conftest.dev/).
 
